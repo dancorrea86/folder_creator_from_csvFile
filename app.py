@@ -7,9 +7,6 @@ from PIL import Image, ImageTk
 from tkinter.filedialog import askopenfile
 import shutil
 
-
-
-
 # Local das pastas
 caminho = 'destino_pastas'
 
