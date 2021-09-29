@@ -8,3 +8,8 @@ App que criar pastas no Windows a partir de uma listagem feito em arquivo .xlsx,
 
 ## Como instalar
 
+## Autor
+
+Daniel Correa
+- Github: dancorrea86
+
