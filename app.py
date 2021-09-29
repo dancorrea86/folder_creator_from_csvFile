@@ -24,7 +24,7 @@ def criar_pastas(nomes_pastas):
 
 root = tk.Tk()
 
-canvas = tk.Canvas(root, width=600, height=300)
+canvas = tk.Canvas(root, width=600, height=250)
 canvas.grid(columnspan=3, rowspan=3)
 
 #Logo
