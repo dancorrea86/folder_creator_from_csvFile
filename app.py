@@ -11,7 +11,11 @@ caminho = 'destino_pastas'
 
 # Verificar se pastas existem
 def verificar_existencia_pastas():
-    return os.listdir(caminho)
+    if(os.path.exists('./destino_pastas')):
+        return os.listdir(caminho)
+    else:
+        os.makedirs('./destino_pastas')
+        return os.listdir(caminho)
 
 # Funcao que cria as pastas
 def criar_pastas(nomes_pastas):
