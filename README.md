@@ -1,8 +1,9 @@
-# Criador de pastas a partir de um arquivo Xlsx
+# Criador de pastas a partir de um arquivo CSV
+
 
 ## Descrição
 
-App que criar pastas no Windows a partir de uma listagem feito em arquivo .xlsx, utilizando uma GUI Tkinter para interação do usuário.
+App que criar pastas no Windows a partir de uma listagem feito em arquivo .CSV, utilizando uma GUI Tkinter para interação do usuário.
 
 ## Como utilizar 
 
