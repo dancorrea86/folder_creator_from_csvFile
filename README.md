@@ -16,7 +16,7 @@ E depois rode o arquivo app.py
 
 ## Como utilizar
 Abra o arquivo CSV dentro da pasta "arquivo.CSV" e preenche a coluna "NameFolder" com os nomes de pasta desejado.
-![Imagem Sistema](https://github.com/dancorrea86/paste_creator_from_csvFile/blob/master/imagens/system_img.png)
+![Imagem Sistema](https://github.com/dancorrea86/paste_creator_from_csvFile/blob/master/imagens/csv_img.PNG)
 
 Se não houver pastas gravadas na pasta "destino_pastas" o sistema fará a criação das pastas. Se houver pastas no diretório o sistema mostrará um aviso para apagar as pastas do diretorio
 
